@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 73.200%;" class="progress-item"></span><span style="background-color: #b07219;width: 25.589%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.550%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.540%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.122%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 73.275%;" class="progress-item"></span><span style="background-color: #b07219;width: 25.620%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.550%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.540%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.014%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">73.20%</span>
+<span class="percent">73.27%</span>
 </li>
 
 
@@ -125,7 +125,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Java</span>
-<span class="percent">25.59%</span>
+<span class="percent">25.62%</span>
 </li>
 
 
@@ -148,11 +148,11 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 600ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">CSS</span>
-<span class="percent">0.12%</span>
+<span class="lang">Batchfile</span>
+<span class="percent">0.01%</span>
 </li>
 
 
